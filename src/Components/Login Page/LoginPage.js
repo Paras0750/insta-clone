@@ -46,10 +46,10 @@ class LoginPage extends Component {
                   <div className="login__dividor"></div>
                 </div>
                 <div className="login__fb">
-                  <img src={fb} width="15px" style={{ marginRight: "5px" }} />
+                  <img src={fb} alt="logo" width="15px" style={{ marginRight: "5px" }} />
                   Login With Facebook
                 </div>
-                <div className="login_forgot">Forgot Password?</div>
+                <div className="login_forgot">Forgotten your password?</div>
               </div>
 
               <div className="loginpage__signupoption">

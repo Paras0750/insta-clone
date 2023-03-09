@@ -1,0 +1,43 @@
+.sugg__container{
+    padding: 20px;
+}
+
+.sugg__personalinfo{
+    margin: 20px 0px;
+}
+
+.sugg__profilpic{
+    float: left;
+    margin-right: 15px;
+}
+
+.sugg__seemore{
+    margin: 20px 0px;
+}
+
+.sugg__allsugg{
+    margin: 20px 0px;
+}
+
+.sugg__username{
+    font-weight: bold;
+}
+
+.sugg__name{
+    color: gray;
+    font-size: 14px;
+}
+
+.follow-btn{
+    color: rgb(0, 149, 246);
+    padding-top: 7px;
+    margin-left: auto;
+}
+.sugg__profileinfo{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.sugg__people{
+    margin: 30px 0px;
+}

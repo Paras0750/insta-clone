@@ -9,7 +9,7 @@ body{
 
 .loginpage_logo{
     width: 175px;
-    margin: 25px;
+    margin-top: 25px;
 }
 
 .loginpage_rightcomponent{
@@ -70,9 +70,9 @@ body{
 }
 .login_forgot {
     color: rgba(var(--fe0,0,55,107),1);
-    font-size: 12px;
+    font-size: 13px;
     line-height: 14px;
-    margin-top: 12px;
+    margin: 12px ;
     text-align: center;
 }
 .loginpage__signupoption {

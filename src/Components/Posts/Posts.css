@@ -1,0 +1,84 @@
+.post__container {
+  width: 615px;
+  border: 1px solid #dbdbdb;
+  background-color: white;
+  margin: 25px 0px;
+  padding: 0px 10px;
+}
+.post__header {
+  height: 60px;
+  display: flex;
+}
+.post__image {
+  min-width: 30px;
+  min-height: 30px;
+  margin: 10px;
+}
+.post__username {
+  font-weight: bold;
+  margin-top: 14px;
+}
+.post__moreoptions {
+  font-size: 28px;
+  margin-left: auto;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+.post__audio {
+  font-size: 14px;
+}
+.post__react {
+  display: flex;
+  justify-content: space-between;
+}
+.post_reactimage {
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+}
+
+.post__footer{
+
+}
+.comment__user{
+  font-weight: bold;
+  float: left;
+  margin-right: 4px;
+
+}
+.post__user{
+  font-weight: bold;
+  float: left;
+  margin-right: 10px;
+}
+.post__viewall{
+  margin: 14px 0px;
+  color: gray;
+  cursor: pointer;
+}
+.post_comment {
+  margin: 4px;
+}
+.post__commentbox {
+  height: 56px;
+  width: 601px;
+  border: 0px;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.post__addcomment{
+  box-sizing:border-box;
+  margin: 6px;
+}
+.post__addcomment input:focus{
+  outline: none;
+}
+.addcomment_input{
+  border: none;
+  width: 100%;
+  margin: 10px 0px;
+}
+.post__likes{
+  margin: 10px 0px;
+  font-weight: bold;
+}
